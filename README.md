@@ -1,2 +1,2 @@
 # Scripts
-脚本
+![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
